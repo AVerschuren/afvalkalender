@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AVerschuren/webapp_template.git"
+    "url": "git+https://github.com/AVerschuren/afvalkalender.git"
   },
   "keywords": [
     "keyword"
@@ -16,9 +16,9 @@
   "author": "Aaron",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AVerschuren/webapp_template/issues"
+    "url": "https://github.com/AVerschuren/afvalkalender/issues"
   },
-  "homepage": "https://github.com/AVerschuren/webapp_template#readme",
+  "homepage": "https://github.com/AVerschuren/afvalkalender#readme",
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-contrib-copy": "^1.0.0",
